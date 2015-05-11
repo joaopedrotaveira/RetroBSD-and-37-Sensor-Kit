@@ -14,5 +14,9 @@ Contents:
 
     gpio.sh
         RetroBSD example for Olimex Duinomite board.
-        Use /dec/porte device blink every RGB component in series
+        Use /dev/porte device blink every RGB component in series
         for one second.
+
+    blink.c
+        RetroBSD example for Olimex Duinomite board.
+        Control RGB LED from C program.
