@@ -8,6 +8,6 @@ Not everything is a sensor, there are many parts that are actuators.
 This repository is a collection of examples and information on
 how to use the sensors and actuators with [RetroBSD](http://retrobsd.org).
 
-* [Directory Map](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Directory-Map)
+* [Directory Map](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Home)
 * [Sensors](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Sensors)
 * [Actuators](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Actuators)
