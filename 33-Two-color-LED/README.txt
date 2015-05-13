@@ -12,6 +12,6 @@ Contents:
         Use /dev/porte device blink every RGB component in series
         for one second.
 
-    blink.c
+    led2.c
         RetroBSD example for Olimex Duinomite board.
         Control RGB LED from C program.
