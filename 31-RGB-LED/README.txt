@@ -8,14 +8,14 @@ Contents:
     led-rgb.pde
         Arduino example of gradual changing the color using PWM modulation.
 
-    portio.sh
-        RetroBSD example for Olimex Duinomite board.
-        Use portio utility to blink every RGB component repeatedly.
-
-    gpio.sh
+    led3.sh
         RetroBSD example for Olimex Duinomite board.
         Use /dev/porte device blink every RGB component in series
         for one second.
+
+    led3-portio.sh
+        RetroBSD example for Olimex Duinomite board.
+        Use portio utility to blink every RGB component repeatedly.
 
     led3.c
         RetroBSD example for Olimex Duinomite board.
