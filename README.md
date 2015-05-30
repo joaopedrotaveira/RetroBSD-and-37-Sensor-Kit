@@ -14,19 +14,19 @@ how to use the sensors and actuators with [RetroBSD](http://retrobsd.org).
 * [Sensors](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Sensors)
 * [Actuators](https://github.com/sergev/RetroBSD-and-37-Sensor-Kit/wiki/Actuators)
 
-# Duinomite board
+# Fubarino SD board
 
-![Duinomite](https://raw.githubusercontent.com/wiki/RetroBSD/retrobsd/binaries/duinomite.jpg)
+![Fubarino](https://raw.githubusercontent.com/wiki/RetroBSD/retrobsd/binaries/fubarino-sd-small.jpg)
 
 Examples in this software package were designed for
-[Olimex Duinomite board](https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE/open-source-hardware).
+[Fubarino SD board](http://fubarino.org/sd/index.html).
 You can use them with any other board as well, with minor changes.
 Other boards usually have different assigment of i/o pins to logical signals.
 Port names, signal indexes and masks have to be modified according to
 schematics of a particular target board.
 
-Pinout of Duinomite board:
+Pinout of Fubarino SD board:
 
-![Duinomite pinout](https://raw.githubusercontent.com/wiki/RetroBSD/retrobsd/binaries/duinomite-pinout.png)
+![Fubarino pinout](https://raw.githubusercontent.com/wiki/RetroBSD/retrobsd/binaries/fubarino-pinout.png)
 
-For more detailed information see: https://github.com/RetroBSD/retrobsd/wiki/Board-Olimex-Duinomite
+For more detailed information see: https://github.com/RetroBSD/retrobsd/wiki/Board-Fubarino-SD
